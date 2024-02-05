@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigHelper": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
